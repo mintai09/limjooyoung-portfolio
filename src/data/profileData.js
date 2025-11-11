@@ -99,8 +99,8 @@ qualifications: [
 
   // 연락처 (스프레드시트 "인스타그램", "이메일" 열)
   contact: {
-    instagram: "Wings_physique00",
-    instagramUrl: "https://www.instagram.com/Wings_physique00",
+    instagram: "wings_classic00",
+    instagramUrl: "https://www.instagram.com/wings_classic00",
     email: "ljy_1130@naver.com",
     phone: "010-8552-6195",
   },
@@ -108,7 +108,7 @@ qualifications: [
   // 이미지 (다운로드된 로컬 파일 경로)
   // TODO: download_drive_images.py 스크립트를 실행하여 실제 이미지를 다운로드하세요
   images: {
-    profilePhoto: "/images/profile.jpg",  // 실제: /images/profile.jpg
+    profilePhoto: "/limjooyoung-portfolio/images/profile.jpg",  // 실제: /images/profile.jpg
     awards: [
       "/images/placeholder.svg",  // 실제: /images/award_1.jpg
     ],
